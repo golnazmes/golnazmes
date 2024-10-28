@@ -14,7 +14,7 @@ I completed my MSc in Computing Science, specializing in **deep continual reinfo
 ---
 
 ## Tools & Technologies
-I regularly work with a wide range of machine learning libraries and tools to bring my ideas to life:
+I regularly work with a wide range of machine learning libraries and tools to bring my ideas to life, including:
 
 ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 

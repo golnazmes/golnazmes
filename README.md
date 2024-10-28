@@ -21,9 +21,3 @@ I regularly work with a wide range of machine learning libraries and tools to br
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white) 
 
----
-
-## Connect with Me
-I’d love to connect with other researchers and professionals in the field. Feel free to reach out!
-
-[LinkedIn](https://www.linkedin.com/in/golnazmes)
